@@ -2,6 +2,7 @@
 
 A machine learning project to predict car prices using regression techniques.  
 This project explores and trains a regression model on a dataset of car prices to help estimate the price of a car based on its features.
+
 <img width="556" height="671" alt="image" src="https://github.com/user-attachments/assets/6da5238b-a03f-4fb6-8cff-17c70482f769" />
 <img width="806" height="618" alt="image" src="https://github.com/user-attachments/assets/f803c32b-4ed6-4c2d-98d5-9751de2b319c" />
 <div class="page-break"></div>
